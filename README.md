@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Anks
+- 👀 I’m interested in Java Script, Json
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on ServiceNow stuff
+
+<!---
+Anks-26/Anks-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
